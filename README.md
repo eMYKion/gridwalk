@@ -1,8 +1,7 @@
-# gridwalk
-Walk on The Grid
+# Walk on The Grid
 
-Demo: [http://emykion.github.io/gridwalk/](http://emykion.github.io/gridwalk/)
+This project as a demo for importing a model into three.js and moving the camera.
 
-This project was created when three.js was first being learned by the author.
-it was taken down, due to its lack of use, but relaunched for its resources in
-contribution to willy-vvu's SmashLab.
+Live demo: [http://emykion.github.io/gridwalk/](http://emykion.github.io/gridwalk/)
+
+Controls: W A S D to move and scroll to zoom. Hold click and move mouse to rotate the perspective.
